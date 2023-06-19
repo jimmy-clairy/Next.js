@@ -1,0 +1,21 @@
+.box {
+    position: relative;
+    background-color: lightgreen;
+    padding: 0 3rem;
+    width: fit-content;
+    min-width: 10rem;
+    border-radius: 5px;
+}
+
+.delete {
+    color: #fff;
+    font-weight: 600;
+    background-color: rgb(255, 110, 110);
+    position: absolute;
+    margin: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
